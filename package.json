@@ -1,0 +1,19 @@
+{
+  "name": "jwt-sample",
+  "description": "Jwt Token Auth sample using jwt-simple library",
+  "author": "Diego Navarro M",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jwt-simple": "^0.5.1",
+    "lokijs": "^1.5.0",
+    "method-override": "^2.3.9",
+    "moment": "^2.18.1",
+    "morgan": "^1.8.2",
+    "underscore": "^1.8.3"
+  },
+  "engine": "node >= 8.0",
+  "main": "index"
+}

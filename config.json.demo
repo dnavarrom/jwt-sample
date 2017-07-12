@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "app_host" : "localhost",
+    "app_port" : "9000",
+    "seguridad" : {
+      	"habilitado" : "true",
+      	"jwt" : {
+      		"TOKEN_SECRET" : "secreto_universal"
+      	}
+      }
+    }
+}
